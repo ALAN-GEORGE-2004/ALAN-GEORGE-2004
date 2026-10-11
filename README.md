@@ -60,7 +60,7 @@ Bachelor's in Computer Science | 2022 – 2026
 
 ## 📫 Connect With Me
 
-- **Email:** [alangeorgechembakassery@gmail.com](alangeorgechembakassery@gmail.com)
+- **Email:** [alangeorgechembakassery@gmail.com](mailto:alangeorgechembakassery@gmail.com)
 - **LinkedIn:** [Alan George](https://www.linkedin.com/in/alan-george2004)
 
 ---
